@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+dashboard.pdf
+dashboard1.pdf
+VEHICLE RECALL DASHBOARD.pbix
